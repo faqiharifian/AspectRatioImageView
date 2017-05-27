@@ -36,6 +36,6 @@ publish {
     publishVersion = '1.0.0'
     desc = 'ImageView with custom aspect ratio'
     licences = ['Apache-2.0']
-    uploadName='CenteredToolbar'
+    uploadName='AspectRatioImageView'
     website = 'https://github.com/faqiharifian/AspectRatioImageView'
 }
